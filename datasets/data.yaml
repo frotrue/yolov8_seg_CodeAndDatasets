@@ -1,8 +1,0 @@
-path: /datasets
-train: images/train
-val: images/val
-
-names:
-  0: road_crack
-  1: port_hole
-  2: sink_hole
