@@ -8,6 +8,7 @@
 ## 프로젝트 소개
 
 yolov8 모델의 segmentation 학습을 통해 도로 균열 및 포트홀, 싱크홀을 감지
+![img1](/readmeing/img_1.png)
 
 ---
 
