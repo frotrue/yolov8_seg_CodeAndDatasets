@@ -18,6 +18,7 @@ yolov8 모델의 segmentation 학습을 통해 도로 균열 및 포트홀, 싱�
 ⚠️ 직접 모델 학습시 종속성 문제로 인하여 docker 또는 colab을 사용할 것을 권장합니다.(직접 환경 설정시 [PyTorch 설치 가이드 참고](https://pytorch.org/get-started/locally/))
 
 또한 windows환경에서는 tensorflow, Pytorch등의 라이브러리에서 GPU지원이 중단됬음으로 WSL 환경이나 Docker 컨테이너에서 진행하는것을 추천 드립니다.
+---
 
 
 docker 이미지 다운로드 및 실행
