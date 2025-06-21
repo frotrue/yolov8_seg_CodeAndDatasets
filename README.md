@@ -11,6 +11,7 @@ yolov8 모델의 segmentation 학습을 통해 도로 균열 및 포트홀, 싱�
 
 
 ![Image](https://github.com/user-attachments/assets/421ed14c-fe10-4a19-a005-759ddcc34b04)
+I[video](https://github.com/user-attachments/assets/9055a9f0-63a4-4d05-a6c2-b5d29f71990a)
 ---
 
 ## 학습 코드 실행
