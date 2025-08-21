@@ -35,12 +35,12 @@ docker run -it --gpus all --ipc=host ultralytics:latest
 코드 및 데이터셋 다운로드
 ```
 cd ..
-git clone https://github.com/gaeguli/yolov8_seg_CodeAndDatasets.git
+git clone https://github.com/frotrue/yolov8_seg_CodeAndDatasets.git
 
 cd yolov8_seg_CodeAndDatasets/datasets
 
 rm datasets.zip
-wget https://github.com/gaeguli/yolov8_seg_CodeAndDatasets/raw/master/datasets/datasets.zip
+wget https://github.com/frotrue/yolov8_seg_CodeAndDatasets/raw/master/datasets/datasets.zip
 unzip datasets.zip
 cd ..
 python main.py
